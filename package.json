@@ -19,5 +19,6 @@
   "homepage": "https://github.com/shizhifan/Szf-ibook#readme",
   "devDependencies": {
     "gitbook-cli": "^2.3.2"
-  }
+  },
+  "dependencies": {}
 }
